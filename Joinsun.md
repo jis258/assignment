@@ -25,7 +25,7 @@
 인라인 링크 예제 [네이버 링크](https://www.naver.com)
 
 참조 링크 예제 [구글 링크][참조 링크 텍스트]
-[참조 링크 텍스트](https://www.google.com)
+[참조 링크 텍스트]:https://www.google.com
 
 
 
