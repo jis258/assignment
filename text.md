@@ -17,7 +17,7 @@ github사용자 이름 : DongwonChoi
 
 이미지
 inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"LogoTitle Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 표
 
