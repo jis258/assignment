@@ -1,0 +1,7 @@
+team : 9
+
+name : Jo in sun
+
+github id : jis258
+
+address : Daejeon
