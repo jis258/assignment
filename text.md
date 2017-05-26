@@ -14,7 +14,7 @@ github사용자 이름 : DongwonChoi
 
 이미지
 inline-style:
-![alt txt](https://github.com/adam-m/markdown-here/raw/master/src/common/images/icon48.png"LogoTitle Text 1")
+![alt txt](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"LogoTitle Text 1")
 
 표
 
@@ -29,3 +29,4 @@ inline-style:
 void main(){
 cout << "코드 만들기 " << endl;
 }
+```
