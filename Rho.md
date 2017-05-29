@@ -54,7 +54,7 @@ KoreaTech
 
 ***
 
-##Inline HTML
+## Inline HTML
 
 <dl>
 <dt>Definition list</dt>
