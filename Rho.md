@@ -46,6 +46,18 @@ alert(s);
 
 [1]: https://google.co.kr
 
+Horizontal Line
 
+---
 
+KoreaTech
+
+***
+
+##Inline HTML
+
+<dl>
+<dt>Definition list</dt>
+<dd>Is someting people use sometimes.</dd>
+</dl>
 
